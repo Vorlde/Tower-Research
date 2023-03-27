@@ -1,4 +1,4 @@
-# Tower-Research
+# Tower-Research Data Challenge
 
 This repository contains the code and related materials for my participation in the quantitative competition hosted by Tower Research Capital at IIT Bombay. The competition aimed to showcase innovative strategies and techniques for financial forecasting and trading using quantitative methods.
 
