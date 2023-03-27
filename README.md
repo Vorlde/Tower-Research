@@ -5,7 +5,7 @@ This repository contains the code and related materials for my participation in 
 
 Within this repo, you can find the codebase that I developed for the competition, including scripts, notebooks, and data preprocessing and visualization tools. I have also included relevant research papers, reports, and presentation materials related to my work.
 
-Through this competition, I have gained valuable experience in developing and implementing quantitative strategies in finance
+Participating in this competition has provided me with valuable experience in exploring the field of data science from the perspective of a quantitative researcher.
 
 ## Problem Statement:
 Given the prices of 100 stocks at different timestamps and 15 indices with their corresponding prices at each timestamp, analyze and answer the following questions: 
